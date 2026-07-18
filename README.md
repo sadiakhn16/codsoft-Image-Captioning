@@ -105,6 +105,6 @@ http://localhost:8501
 
 ## Developed By
 
-**Your Name**
+**Sadia Khan**
 
 College Internship Project
