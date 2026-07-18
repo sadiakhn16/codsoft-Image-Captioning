@@ -1,1 +1,2 @@
 # codsoft-Image-Captioning
+This project is an AI-powered application that automatically generates captions for images using deep learning. It combines Computer Vision and Natural Language Processing by using a pre-trained Vision Transformer (ViT) to extract image features and a GPT-2 language model to generate meaningful captions. Users can upload an image through a Streamlit web interface, and the system analyzes the image and produces a natural language description. This demonstrates the practical use of image understanding and language generation in AI.
